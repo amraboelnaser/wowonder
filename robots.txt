@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets
+Disallow: /cache
+Disallow: /sources
+Disallow: /api
+Disallow: /script_backups
